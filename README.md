@@ -1,2 +1,2 @@
 # Proyecto-Docker
-Proyecto de Docker realizado al finalizar el Grado Superior de Administración de Sistemas Informáticos en Red (ASIR)
+Proyecto Integrado de Docker realizado al finalizar el Grado Superior de Administración de Sistemas Informáticos en Red (ASIR).
